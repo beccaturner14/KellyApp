@@ -4,6 +4,17 @@
     <option name="linkedExternalProjectsSettings">
       <GradleProjectSettings>
         <option name="distributionType" value="DEFAULT_WRAPPED" />
+        <option name="externalProjectPath" value="$APPLICATION_HOME_DIR$/bin/https:/github.com/beccaturner14/KellyApp.git/KellyApp" />
+        <option name="modules">
+          <set>
+            <option value="$APPLICATION_HOME_DIR$/bin/https:/github.com/beccaturner14/KellyApp.git/KellyApp" />
+            <option value="$APPLICATION_HOME_DIR$/bin/https:/github.com/beccaturner14/KellyApp.git/KellyApp/app" />
+          </set>
+        </option>
+        <option name="resolveModulePerSourceSet" value="false" />
+      </GradleProjectSettings>
+      <GradleProjectSettings>
+        <option name="distributionType" value="DEFAULT_WRAPPED" />
         <option name="externalProjectPath" value="$PROJECT_DIR$" />
         <option name="modules">
           <set>
