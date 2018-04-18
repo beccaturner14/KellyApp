@@ -10,12 +10,14 @@
 
     <TextView
         android:id="@+id/textView"
-        android:layout_width="252dp"
-        android:layout_height="62dp"
+        android:layout_width="254dp"
+        android:layout_height="66dp"
+        android:layout_marginTop="8dp"
         android:text="I am so glad you are feeling happy. Lets talk about ways to make other people happy! "
+        android:textSize="18sp"
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintStart_toStartOf="parent"
-        tools:layout_editor_absoluteY="8dp" />
+        app:layout_constraintTop_toTopOf="parent" />
 
     <TextView
         android:id="@+id/textView3"
