@@ -53,7 +53,7 @@ public class LoginActivity extends AppCompatActivity {
                             }
                             else{
                                 AlertDialog.Builder builder = new AlertDialog.Builder(LoginActivity.this);
-                                builder.setMessage("Login failed")
+                                builder.setMessage("Your username or password is incorrect.")
                                         .setNegativeButton("Retry",null)
                                         .create()
                                         .show();
