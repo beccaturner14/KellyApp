@@ -5,13 +5,13 @@
     android:layout_width="match_parent"
     android:layout_height="match_parent"
     app:layout_behavior="@string/appbar_scrolling_view_behavior"
-    tools:context=".ScrollingActivityAngry"
-    tools:showIn="@layout/activity_scrolling_angry">
+    tools:showIn="@color/colorPrimaryDark">
 
     <TextView
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:layout_margin="@dimen/text_margin"
-        android:text="I'm sorry to hear that! Sometimes when you're angry it can be good to take a short breather. Here's some tips for when I'm angry:                                                                 1. Having a kneadable eraser or something similar. Your hands have something to do that can distract you from the anger you're feeling until you feel ready to think through it again later!                                                            2. Do something fun! You shouldn't have to be miserable because you're in a bad situation. "/>
+        android:text="I'm sorry to hear that! Sometimes when you're angry it can be good to take a short breather. Here's some tips for when I'm angry:                                                                 1. Having a kneadable eraser or something similar. Your hands have something to do that can distract you from the anger you're feeling until you feel ready to think through it again later!                                                            2. Do something fun! You shouldn't have to be miserable because you're in a bad situation. Try turning your emotions into somehing productive.                                   3. Write down good reasons for why you're angry. Sometimes it takes looking at a situation from a different perspective to better understand why you feel the way you do.                                                                      4. In general, sometimes life doesn't go the way you plan. When you're angry or arguing with someone, sometimes the best thing to do can be to walk away. Then, when you feel more calm, you can say what you feel more productively.
+" />
 
 </android.support.v4.widget.NestedScrollView>
