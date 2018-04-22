@@ -16,7 +16,7 @@
         android:layout_marginLeft="68dp"
         android:layout_marginRight="68dp"
         android:layout_marginStart="68dp"
-        android:text="You are feeling tired??? It happens that you feel tired."
+        android:text="You are feeling tired? Don’t worry, it happens to everyone. Even if you feel like you are too tired to be productive, there are ways to make the most of your day!”
         android:textSize="18sp"
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintHorizontal_bias="1.0"
@@ -27,7 +27,7 @@
         android:id="@+id/textView9"
         android:layout_width="259dp"
         android:layout_height="48dp"
-        android:text="1. Get Sleep. Have a proper sleep schedule and stick by."
+        android:text="1. Make sure you are getting enough sleep. You should ideally be getting at least eight hours of sleep each night. I know sometimes it can feel impossible to find the time, but it is important to take care of yourself!”
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintStart_toStartOf="parent"
         tools:layout_editor_absoluteY="112dp" />
@@ -36,7 +36,7 @@
         android:id="@+id/textView10"
         android:layout_width="255dp"
         android:layout_height="48dp"
-        android:text="2. Drink coffee. You will feel better with caffine running through your body."
+        android:text="2. Drink coffee. If you really need to focus on something but feel too tired, coffee can help you wake up a bit. But try not to become dependent on it, because getting sleep is the only way to be truly rested.”
         tools:layout_editor_absoluteX="31dp"
         tools:layout_editor_absoluteY="183dp" />
 
@@ -44,7 +44,7 @@
         android:id="@+id/textView11"
         android:layout_width="252dp"
         android:layout_height="38dp"
-        android:text="3. Get over it. Fight the urge to sleep."
+        android:text="3. If you feel tired all the time, but get enough sleep, you may want to talk to a doctor, especially if you didn’t used to be this tired all the time. It may indicate a bigger problem.”
         tools:layout_editor_absoluteX="31dp"
         tools:layout_editor_absoluteY="252dp" />
 
